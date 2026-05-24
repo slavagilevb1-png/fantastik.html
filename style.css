@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+header{
+ background-color: MediumAquamarine;
+ border-radius: 20px
+}
+ h1{
+ color:DodgerBlue;
+ }
+ footer p{
+    border-radius:20 px;
+    background-color: rgb(85, 85, 236);
+    margin: 15 px
+ }
+ 
